@@ -38,6 +38,7 @@
     "react-notification-component": "^1.1.4",
     "react-router": "^7.4.0",
     "react-router-dom": "^7.4.0",
+    "server": "file:..",
     "socket.io-client": "^4.8.1"
   },
   "devDependencies": {
